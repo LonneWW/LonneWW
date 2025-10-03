@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35px" width="35px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="35px" width="35px"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonneWW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="30%"/>        
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonneWW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="50%"/>        
 
 ---
 
